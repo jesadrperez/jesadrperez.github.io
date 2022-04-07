@@ -2,10 +2,10 @@
 title: "website"
 ---
 
-This is a Quarto website.
+Currently, I am a Data Scientist in Albuquerque, NM at Sandia National Laboratories. In 2011, I received a MS in Applied Statistics from New Mexico State University in Las Cruces, NM. Afterwards, I spent six-years as a Data Analyst at HID Global's Biometric Center of Excellence in Albuquerque, NM. Then in 2019, I joined Sandia National Laboratories in their Data Sciences organization where I solve enterprise problems. This requires a mix of machine learning, MLOPs, data engineering, and research software development. My primary interest are:
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+-   R programming and package development
+-   Creating meaningful data visualizations
+-   User-centered design in code development.
 
-```{r}
-1 + 1
-```
+During my leisure time, I enjoy: gardening, cooking Mexican food, and killing houseplants.
