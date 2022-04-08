@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Jesus Adrian Perez"
+  icon: emoji-sunglasses-fill
   search: false
   navbar:
     background: primary
