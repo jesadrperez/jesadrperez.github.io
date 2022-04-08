@@ -6,10 +6,6 @@ website:
   title: "Jesus Adrian Perez"
   navbar:
     background: primary
-    left:
-      - href: index.qmd
-        text: About Me
-      - about.qmd
 
 format:
   html:
