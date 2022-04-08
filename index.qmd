@@ -1,5 +1,8 @@
 ---
 title: "About Me"
+about:
+  template: broadside
+  image: profile.jpg
 ---
 
 Currently, I am a Data Scientist at [Sandia National Laboratories](https://www.sandia.gov/) in Albuquerque, NM. My educational background is a [BS of Biology](https://bio.nmsu.edu/) with a minor in Applied Math (2009) and [MS in Applied Statistics](https://business.nmsu.edu/academic-programs/graduate-programs/ms-applied-statistics/applied-statistics-master.html) (2011), both earned at New Mexico State University in Las Cruces, NM. After graduating, I spent six-years as a Data Analyst at [HID Global's Biometric Center of Excellence](https://www.hidglobal.com/solutions/identity-authentication-verification-technologies/biometric-technologies) in Albuquerque, NM. Then in 2019, I joined Sandia National Laboratories in their Data Sciences organization where I help solve enterprise problems. This requires a mix of machine learning, MLOPs, data engineering, and research software development. My primary interests are:
