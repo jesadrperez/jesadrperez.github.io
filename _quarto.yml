@@ -5,6 +5,9 @@ project:
 website:
   title: "Jesus Adrian Perez"
   search: false
+  google-analytics: 
+    tracking-id: "G-WY4T41ZBM7"
+    storage: none
   navbar:
     background: primary
 
