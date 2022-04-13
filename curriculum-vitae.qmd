@@ -4,7 +4,13 @@ title: "Curriculum Vitae"
 
 ## Performance Profile
 
-## Compentences
+Proven data wrangler with knowledge in advanced statistical techniques and machine learning, with 10 years corporate research experience; planning and implementing data-driven solutions. Able to perform effectively in highly cooperative and collaborative team-oriented environments to solve enterprise, scientific, and engineering problems. Demonstrated ability to efficiently present research findings (verbally, visually, & interactively) to both technical and non-technical audiences.
+
+## Competences
+
+**Methods:** Machine Learning, Data Science, Visualizations, Hypothesis Testing & Experimental Design  
+**Languages:** R, Python, SQL, Tableau, Matlab & SAS  
+**Frameworks:** Shiny, RMarkdown, Tidyverse, Pandas, Matplotlib & Scikit-Learn
 
 ## Professional Experience
 

@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "curriculum-vitae.html#compentences",
-    "href": "curriculum-vitae.html#compentences",
+    "objectID": "curriculum-vitae.html",
+    "href": "curriculum-vitae.html",
     "title": "Curriculum Vitae",
-    "section": "Compentences",
-    "text": "Compentences"
+    "section": "",
+    "text": "Proven data wrangler with knowledge in advanced statistical techniques and machine learning, with 10 years corporate research experience; planning and implementing data-driven solutions. Able to perform effectively in highly cooperative and collaborative team-oriented environments to solve enterprise, scientific, and engineering problems. Demonstrated ability to efficiently present research findings (verbally, visually, & interactively) to both technical and non-technical audiences."
+  },
+  {
+    "objectID": "curriculum-vitae.html#competences",
+    "href": "curriculum-vitae.html#competences",
+    "title": "Curriculum Vitae",
+    "section": "Competences",
+    "text": "Competences\nMethods: Machine Learning, Data Science, Visualizations, Hypothesis Testing & Experimental Design\nLanguages: R, Python, SQL, Tableau, Matlab & SAS\nFrameworks: Shiny, RMarkdown, Tidyverse, Pandas, Matplotlib & Scikit-Learn"
   },
   {
     "objectID": "curriculum-vitae.html#professional-experience",
