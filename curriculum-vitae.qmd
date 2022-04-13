@@ -22,7 +22,7 @@ Developed and productionized two machine learning models and four interactive da
 * Proposed and awarded funding from the CIO to publish a data visualization style guide for use by the entire lab in public communications and professional journals. Currently being used by 28% of the Lab’s 14,000 workforce.
 - Developed R Shiny web interfaces for machine learning predictive models to reduce the number of safety and security incidents.
 
-**Biometric Analyst,** *HID Global,* Albuquerque, NM | 01/2012 – 06/2018 
+**Biometric Analyst,** *HID Global,* Albuquerque, NM | 01/2012 – 06/2018  
 Managed the human testing lab; coordinated 53 research studies, in various sites in the US to evaluate biometric sensors. Analyzed resulting data to measure biometric sensor performance and prepare it for machine learning algorithms. Oversaw 12.89 terabytes of collected data. Presented research findings using various media (print, video, and webinars) to both technical and non-technical staff, and clients. Researched and identified new methods for spoofing biometric devices.
 
 - Cut research study cost and product development time by improving subject recruitment; identified new recruitment methods, and improved communication that led to 48% subject retention rate.
@@ -30,6 +30,11 @@ Managed the human testing lab; coordinated 53 research studies, in various sites
 - Decreased algorithm development time and improved data quality by implementing new filename conventions, and creating a MATLAB accessible MySQL database to index collected data.
 - Identified three unknown security threats to HID Global biometric sensors that lead to improvements in our fake finger detection algorithm.
 - Collaborated with hardware engineers and computer scientists, on the research and development of four biometric sensors; including one for guests accessing the most visited vacation resort in the world.
+
+**Intern Statistician,** *USDA Food Safety Inspection Service,* Washington, DC | 04/2010–08/2010  
+Ensured quality of raw data collected by the Food Safety and Inspection Service in meat, poultry, and processed egg product facilities throughout the United States. Cleaned raw data and updated data warehouse. Used statistical methodologies to estimate the prevalence of foodborne pathogens and prepared relevant figures for professional presentations.
+- Authored a report for the public on the prevalence of pathogens in raw poultry products.
+- Consulted with other interns from non-technical backgrounds on how to properly use statistical techniques on their work-related projects.
 
 ## Education
 
