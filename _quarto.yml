@@ -13,7 +13,6 @@ website:
     left:
     - href: curriculum-vitae.qmd
       text: CV
-      icon: file-text
 
 format:
   html:
