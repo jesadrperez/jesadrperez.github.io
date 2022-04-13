@@ -11,8 +11,9 @@ website:
   navbar:
     background: primary
     left:
-    - href: curriculum-vitae.qmd
+    - icon: file-text
       text: CV
+      href: curriculum-vitae.qmd
 
 format:
   html:
