@@ -10,6 +10,10 @@ website:
     storage: none
   navbar:
     background: primary
+    left:
+    - href: curriculum-vitae.qmd
+      text: CV
+      icon: file-text
 
 format:
   html:
