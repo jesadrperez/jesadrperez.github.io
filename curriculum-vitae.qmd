@@ -33,6 +33,7 @@ Managed the human testing lab; coordinated 53 research studies, in various sites
 
 **Intern Statistician,** *USDA Food Safety Inspection Service,* Washington, DC | 04/2010–08/2010  
 Ensured quality of raw data collected by the Food Safety and Inspection Service in meat, poultry, and processed egg product facilities throughout the United States. Cleaned raw data and updated data warehouse. Used statistical methodologies to estimate the prevalence of foodborne pathogens and prepared relevant figures for professional presentations.
+
 - Authored a report for the public on the prevalence of pathogens in raw poultry products.
 - Consulted with other interns from non-technical backgrounds on how to properly use statistical techniques on their work-related projects.
 
