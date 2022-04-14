@@ -53,7 +53,8 @@ Ensured quality of raw data collected by the Food Safety and Inspection Service 
 
 ### Certifications
 
-*Fundamentals of Computing* by Rice University on Coursera. Certificate earned at July 7, 2018  
+*Fundamentals of Computing* by Rice University on Coursera. Certificate earned at July 7, 2018
+
 *Applied Data Science with Python* by University of Michigan on Coursera. Certificate earned at September 28, 2017
 
 ### Trainings
