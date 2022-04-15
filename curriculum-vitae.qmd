@@ -10,7 +10,7 @@ Proven data wrangler with knowledge in advanced statistical techniques and machi
 
 **Methods:** Machine Learning, Data Science, Visualizations, Hypothesis Testing & Experimental Design\
 **Languages:** R, Python, SQL, Tableau, Matlab & SAS\
-**Frameworks:** Shiny, RMarkdown, Tidyverse, Pandas, Matplotlib & Scikit-Learn
+**Frameworks:** Shiny, RMarkdown, Tidyverse, Docker, Pandas, Matplotlib & Scikit-Learn
 
 ## Professional Experience
 
@@ -48,17 +48,34 @@ Ensured quality of raw data collected by the Food Safety and Inspection Service 
 
 ## Education
 
-**MS in Applied Statistics,** *New Mexico State University,* Las Cruces, NM, 2011  
+**MS in Applied Statistics,** *New Mexico State University,* Las Cruces, NM, 2011
+
 **BS in Biology (Minor: Applied Math),** *New Mexico State University,* Las Cruces, NM, 2009
 
-### Certifications
+### Certification
 
 *Fundamentals of Computing* by Rice University on Coursera. Certificate earned at July 7, 2018
 
 *Applied Data Science with Python* by University of Michigan on Coursera. Certificate earned at September 28, 2017
 
-### Trainings
+### Professional Training
+
+*Cloudera Data Scientist Training* by Cloudera. 02/14/2022--02/17/2022
+
+*SAFe® Product Owner/Product Manager* by Scaled Agile. 01/11/2022--01/13/2022
+
+*JavaScript for Shiny Users* at RStudio Conference 2020. 01/27/2020--01/28/2020 
+
+*Apache Spark™ Programming (DB 105)* by DataBricks. 09/24/2019
 
 ## Presentations
 
+*Viz Wars: Tableau vs. Shiny*, National Laboratories Information Technology Summit. Boise, Idaho. 04/29/2019
+
+*Assure for Safety*, National Laboratories Information Technology Summit. Boise, Idaho. 04/28/2019
+
 ## Conferences
+
+*RStudio Conference 2020* by RStudio, San Francisco, CA. 01/29/2020--01/30/2020
+
+*National Laboratories Information Technology Summit* by Federal Business Council, Inc. Boise, Idaho. 04/28/2019--04/31/2019
