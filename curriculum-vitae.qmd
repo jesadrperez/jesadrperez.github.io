@@ -64,6 +64,8 @@ Ensured quality of raw data collected by the Food Safety and Inspection Service 
 
 *SAFe® Product Owner/Product Manager* by Scaled Agile. 01/11/2022--01/13/2022
 
+*Storytelling with Data* by Cole Nussbaumer Knaflic. 10/15/2020
+
 *JavaScript for Shiny Users* at RStudio Conference 2020. 01/27/2020--01/28/2020 
 
 *Apache Spark™ Programming (DB 105)* by DataBricks. 09/24/2019
