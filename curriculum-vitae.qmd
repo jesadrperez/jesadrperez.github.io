@@ -78,6 +78,10 @@ Ensured quality of raw data collected by the Food Safety and Inspection Service 
 
 ## Conferences
 
+*RStudio Global Conference 2021* by RStudio, Virtual. 01/21/2021.
+
+*Conference on Data Analysis* by Los Alamos National Laboratory, Santa Fe, NM. 02/25/2020--02/27/2020.
+
 *RStudio Conference 2020* by RStudio, San Francisco, CA. 01/29/2020--01/30/2020
 
 *National Laboratories Information Technology Summit* by Federal Business Council, Inc. Boise, Idaho. 04/28/2019--04/31/2019
