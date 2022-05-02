@@ -80,6 +80,10 @@ Ensured quality of raw data collected by the Food Safety and Inspection Service 
 
 *RStudio Global Conference 2021* by RStudio, Virtual. 01/21/2021.
 
+*DOE Virtual Data Days 2020* by The Department of Energy, Virtual. 10/05/2020--10/07/2020.
+
+*Spark + AI 2020 Summit* by DataBricks, Virtual. 6/22/2020
+
 *Conference on Data Analysis* by Los Alamos National Laboratory, Santa Fe, NM. 02/25/2020--02/27/2020.
 
 *RStudio Conference 2020* by RStudio, San Francisco, CA. 01/29/2020--01/30/2020
