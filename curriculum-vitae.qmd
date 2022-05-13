@@ -8,7 +8,7 @@ Proven data wrangler with knowledge in advanced statistical techniques and machi
 
 ## Competences
 
-**Methods:** Machine Learning, Data Science, Visualizations, Hypothesis Testing & Experimental Design\
+**Methods:** Machine Learning, Data Science, Visualizations, Data Management, Hypothesis Testing,  Experimental Design, & Applied Statistics\
 **Languages:** R, Python, SQL, Tableau, Matlab & SAS\
 **Frameworks:** Shiny, RMarkdown, Tidyverse, Docker, Pandas, Matplotlib & Scikit-Learn
 
