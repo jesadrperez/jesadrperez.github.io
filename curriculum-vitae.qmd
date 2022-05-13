@@ -8,7 +8,7 @@ Proven data wrangler with knowledge in advanced statistical techniques and machi
 
 ## Competences
 
-**Methods:** Machine Learning, Data Science, Visualizations, Data Management, Hypothesis Testing,  Experimental Design, & Applied Statistics\
+**Methods:** Machine Learning, Data Science, Visualizations, Data Management, Hypothesis Testing, Experimental Design, & Applied Statistics\
 **Languages:** R, Python, SQL, Tableau, Matlab & SAS\
 **Frameworks:** Shiny, RMarkdown, Tidyverse, Docker, Pandas, Matplotlib & Scikit-Learn
 
@@ -22,7 +22,7 @@ Developed and productionized two machine learning models and four interactive da
 -   Proposed and awarded funding from the CIO to publish a data visualization style guide for use by the entire lab in public communications and professional journals. Currently being used by 28% of the Lab's 14,000 workforce.
 -   Developed R Shiny web interfaces for machine learning predictive models to reduce the number of safety and security incidents.
 
-**Biometric Analyst,** *HID Global,* Albuquerque, NM, 01/2012--06/2018\
+**Data Analyst,** *HID Global,* Albuquerque, NM, 01/2012--06/2018\
 Managed the human testing lab; coordinated 53 research studies, in various sites in the US to evaluate biometric sensors. Analyzed resulting data to measure biometric sensor performance and prepare it for machine learning algorithms. Oversaw 12.89 terabytes of collected data. Presented research findings using various media (print, video, and webinars) to both technical and non-technical staff, and clients. Researched and identified new methods for spoofing biometric devices.
 
 -   Cut research study cost and product development time by improving subject recruitment; identified new recruitment methods, and improved communication that led to 48% subject retention rate.
