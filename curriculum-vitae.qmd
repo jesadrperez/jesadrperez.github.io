@@ -14,6 +14,10 @@ Proven data wrangler with knowledge in advanced statistical techniques and machi
 
 ## Professional Experience
 
+**Data Scientist,** *Capture Higher Ed,* Louisville, KY, 08/2018--Present\
+As a remote Data Science team member, I designed, deployed, and maintained partner-facing machine learning-based applications in R and Python on AWS. Advised partners on utilizing their tailored models to achieve higher education enrollment objectives and determine financial aid awards. Improved internal R packages for the Data Science Team through maintenance and enhancement efforts.
+-   Updated and modernized our containerized development environment with latest versions of R and Python, along with supporting ARM-based devices.
+
 **Data Scientist,** *Sandia National Laboratories,* Albuquerque, NM, 07/2018--08/2022\
 Developed and productionized two machine learning models and four interactive data visualizations to improve safety, security, and employee retention. Provided ad-hoc data analysis to leadership on the performance of the \$177.7 million Laboratory Directed Research & Development (LDRD) program. Collaborated with data engineers and software developers to increase the access and maintenance of 83 enterprise data sets. Established best practices in research software development by creating internal software packages and documenting CI/CD pipelines with Docker and GitLab.
 
@@ -66,7 +70,7 @@ Ensured quality of raw data collected by the Food Safety and Inspection Service 
 
 *Storytelling with Data* by Cole Nussbaumer Knaflic. 10/15/2020
 
-*JavaScript for Shiny Users* at RStudio Conference 2020. 01/27/2020--01/28/2020 
+*JavaScript for Shiny Users* at RStudio Conference 2020. 01/27/2020--01/28/2020
 
 *Apache Spark™ Programming (DB 105)* by DataBricks. 09/24/2019
 
