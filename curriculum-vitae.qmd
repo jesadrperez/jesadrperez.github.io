@@ -16,6 +16,7 @@ Proven data wrangler with knowledge in advanced statistical techniques and machi
 
 **Data Scientist,** *Capture Higher Ed,* Louisville, KY, 08/2018--Present\
 As a remote Data Science team member, I designed, deployed, and maintained partner-facing machine learning-based applications in R and Python on AWS. Advised partners on utilizing their tailored models to achieve higher education enrollment objectives and determine financial aid awards. Improved internal R packages for the Data Science Team through maintenance and enhancement efforts.
+
 -   Updated and modernized our containerized development environment with latest versions of R and Python, along with supporting ARM-based devices.
 
 **Data Scientist,** *Sandia National Laboratories,* Albuquerque, NM, 07/2018--08/2022\
