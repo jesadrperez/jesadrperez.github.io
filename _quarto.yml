@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Jesus Adrian Perez"
+  title: "Adrian Perez"
   search: false
   google-analytics: "G-WY4T41ZBM7"
   navbar:

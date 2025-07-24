@@ -2,9 +2,9 @@
 title: "Curriculum Vitae"
 ---
 
-## Performance Profile
+## Professional Summary
 
-Proven data wrangler with knowledge in advanced statistical techniques and machine learning, with 10 years corporate research experience; planning and implementing data-driven solutions. Able to perform effectively in highly cooperative and collaborative team-oriented environments to solve enterprise, scientific, and engineering problems. Demonstrated ability to efficiently present research findings (verbally, visually, & interactively) to both technical and non-technical audiences.
+Data Scientist with 14+ years specializing in machine learning, predictive modeling, and enterprise data visualization across higher education, national security, and biometric research. Created visualization standards adopted by 28% of 14K workforce and led development of enrollment prediction systems serving 15-20 clients. Expert at translating complex analytics into compelling visual narratives for C-level executives and technical teams. Recent focus on cutting-edge AI applications, successfully delivering LLM-powered products and data-driven enrollment strategies.
 
 ## Competences
 
