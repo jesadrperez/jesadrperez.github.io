@@ -14,7 +14,7 @@ Data Scientist with 14+ years specializing in machine learning, predictive model
 
 ## Professional Experience
 
-**Data Scientist,** *Capture Higher Ed,* Louisville, KY, 08/2018--Present\
+**Data Scientist,** *Capture Higher Ed,* Louisville, KY, 08/2022--Present\
 As a remote member of Capture Higher Ed, a data-driven enrollment management and marketing firm that helps colleges and universities identify and enroll prospective students; I designed, deployed, and maintained internal- and partner-facing machine learning based applications in R and Python on AWS. Advised nine higher education clients on utilizing our tailored models to achieve their annual enrollment goals and determine financial aid awards. Supported the internal R packages and Docker-based development environments through maintenance and feature enhancements.
 
 -   Rapidly prototyped 2 LLM-powered products (chatbots and content generation) within 6-month deadline using OpenAI models, prompt engineering, fine-tuning, and RAG, maintaining market competitiveness with products entering general availability in 2025.
