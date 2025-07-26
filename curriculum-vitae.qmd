@@ -9,7 +9,9 @@ Data Scientist with 14+ years specializing in machine learning, predictive model
 ## Competences
 
 **Methods:** Machine Learning, Data Science, Prompt Engineering, Generative AI, User Experience, Visualizations, Data Management, Hypothesis Testing, Experimental Design, & Applied Statistics\
+
 **Languages:** R, Python, SQL, Tableau, Matlab & SAS\
+
 **Frameworks:** Shiny, RMarkdown, Tidyverse, Docker, Pandas, Matplotlib & Scikit-Learn, & Git\
 
 ## Professional Experience

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "Currently, I am a Data Scientist for Capture Higher Ed out of Las Cruces, NM. My educational background is a BS in Biology with a minor in Applied Math (2009) and MS in Applied Statistics (2011), both earned at New Mexico State University in Las Cruces, NM. After graduating, I spent six-years as a Data Analyst at HID Global’s Biometric Center of Excellence in Albuquerque, NM. Then in 2019, I joined the Data Sciences organization at Sandia National Laboratories as a Data Scientist. In 2022, I joined Capture Higher Ed to help build predictive models for higher education enrollment. This requires a mix of machine learning, MLOps, data engineering, and research software development. My primary interests are:\n\nR programming and package development\nCreating impactful data visualizations\nUser-centered design in code development.\n\nDuring my leisure time, I enjoy gardening, cooking, and killing houseplants."
+    "text": "I am currently a Data Scientist at Capture Higher Ed, based in Las Cruces, NM. I hold a B.S. in Biology with a minor in Applied Mathematics (2009) and an MS in Applied Statistics (2011), both from New Mexico State University.\nAfter graduating, I worked for six years as a Data Analyst at HID Global’s Biometric Center of Excellence in Albuquerque, NM. In 2019, I joined the Data Sciences organization at Sandia National Laboratories as a Data Scientist. In 2022, I brought my experience to Capture Higher Ed, where I help develop predictive models for higher education enrollment. This role blends machine learning, MLOps, data engineering, and software development.\nMy professional interests include: - R programming and package development - Creating impactful data visualizations - User-centered design in code development\nIn my free time, I enjoy gardening, cooking, and—despite my best efforts—occasionally killing houseplants."
   },
   {
     "objectID": "curriculum-vitae.html",
@@ -25,7 +25,7 @@
     "href": "curriculum-vitae.html#competences",
     "title": "Curriculum Vitae",
     "section": "Competences",
-    "text": "Competences\nMethods: Machine Learning, Data Science, Prompt Engineering, Generative AI, User Experience, Visualizations, Data Management, Hypothesis Testing, Experimental Design, & Applied Statistics\nLanguages: R, Python, SQL, Tableau, Matlab & SAS\nFrameworks: Shiny, RMarkdown, Tidyverse, Docker, Pandas, Matplotlib & Scikit-Learn, & Git"
+    "text": "Competences\nMethods: Machine Learning, Data Science, Prompt Engineering, Generative AI, User Experience, Visualizations, Data Management, Hypothesis Testing, Experimental Design, & Applied Statistics\n\nLanguages: R, Python, SQL, Tableau, Matlab & SAS\n\nFrameworks: Shiny, RMarkdown, Tidyverse, Docker, Pandas, Matplotlib & Scikit-Learn, & Git"
   },
   {
     "objectID": "curriculum-vitae.html#professional-experience",
