@@ -20,8 +20,9 @@ I am currently a **Data Scientist** at [*Capture Higher Ed*](https://www.capture
 After graduating, I worked for six years as a **Data Analyst** at [*HID Global's Biometric Center of Excellence*](https://www.hidglobal.com/solutions/identity-authentication-verification-technologies/biometric-technologies) in Albuquerque, NM. In 2019, I joined the Data Sciences organization at [*Sandia National Laboratories*](https://www.sandia.gov/) as a **Data Scientist**. In 2022, I brought my experience to Capture Higher Ed, where I help develop predictive models for higher education enrollment. This role blends machine learning, MLOps, data engineering, and software development.
 
 My professional interests include:
+
 -   R programming and package development
 -   Creating impactful data visualizations
--   User-centered design in code development
+-   User-centered design in code development.
 
 In my free time, I enjoy gardening, cooking, and—despite my best efforts—occasionally killing houseplants.
