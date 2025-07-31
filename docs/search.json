@@ -21,11 +21,11 @@
     "text": "Data Scientist with 14+ years specializing in machine learning, predictive modeling, and enterprise data visualization across higher education, national security, and biometric research. Created visualization standards adopted by 28% of 14K workforce and led development of enrollment prediction systems serving 15-20 clients. Expert at translating complex analytics into compelling visual narratives for C-level executives and technical teams. Recent focus on cutting-edge AI applications, successfully delivering LLM-powered products and data-driven enrollment strategies."
   },
   {
-    "objectID": "curriculum-vitae.html#competences",
-    "href": "curriculum-vitae.html#competences",
+    "objectID": "curriculum-vitae.html#technical-skills",
+    "href": "curriculum-vitae.html#technical-skills",
     "title": "Curriculum Vitae",
-    "section": "Competences",
-    "text": "Competences\nMethods: Machine Learning, Data Science, Prompt Engineering, Generative AI, User Experience, Visualizations, Data Management, Hypothesis Testing, Experimental Design, & Applied Statistics\n\nLanguages: R, Python, SQL, Tableau, Matlab & SAS\n\nFrameworks: Shiny, RMarkdown, Tidyverse, Docker, Pandas, Matplotlib & Scikit-Learn, & Git"
+    "section": "Technical skills",
+    "text": "Technical skills\nProgramming: R, Python, SQL, MATLAB, SAS\n\nMachine Learning: Scikit-Learn, LLM Fine-tuning, Prompt Engineering, Statistical Modeling\n\nVisualization: R Shiny, ggplot2, Matplotlib, Tableau\n\nInfrastructure: Docker, Git, AWS, CI/CD Pipelines\n\nResearch: Experimental Design, Hypothesis Testing, Applied Statistics"
   },
   {
     "objectID": "curriculum-vitae.html#professional-experience",

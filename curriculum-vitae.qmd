@@ -6,13 +6,17 @@ title: "Curriculum Vitae"
 
 Data Scientist with 14+ years specializing in machine learning, predictive modeling, and enterprise data visualization across higher education, national security, and biometric research. Created visualization standards adopted by 28% of 14K workforce and led development of enrollment prediction systems serving 15-20 clients. Expert at translating complex analytics into compelling visual narratives for C-level executives and technical teams. Recent focus on cutting-edge AI applications, successfully delivering LLM-powered products and data-driven enrollment strategies.
 
-## Competences
+## Technical skills
 
-**Methods:** Machine Learning, Data Science, Prompt Engineering, Generative AI, User Experience, Visualizations, Data Management, Hypothesis Testing, Experimental Design, & Applied Statistics\
+**Programming:** R, Python, SQL, MATLAB, SAS\
 
-**Languages:** R, Python, SQL, Tableau, Matlab & SAS\
+**Machine Learning:** Scikit-Learn, LLM Fine-tuning, Prompt Engineering, Statistical Modeling\
 
-**Frameworks:** Shiny, RMarkdown, Tidyverse, Docker, Pandas, Matplotlib & Scikit-Learn, & Git\
+**Visualization:** R Shiny, ggplot2, Matplotlib, Tableau\
+
+**Infrastructure:** Docker, Git, AWS, CI/CD Pipelines\
+
+**Research:** Experimental Design, Hypothesis Testing, Applied Statistics\
 
 ## Professional Experience
 
