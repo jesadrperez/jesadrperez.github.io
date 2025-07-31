@@ -32,19 +32,19 @@ As a remote member of Capture Higher Ed, a data-driven enrollment management and
 **Data Scientist,** *Sandia National Laboratories,* Albuquerque, NM, 07/2018--08/2022\
 At Sandia National Laboratories, a federally funded research and development center advancing national security and technology innovation, I developed and productionized two machine learning models and four interactive data visualizations to improve safety, security, and employee retention. I provided ad-hoc data analysis to leadership on the performance of the $177.7 million Laboratory Directed Research & Development (LDRD) program. Collaborating with data engineers and software developers, I enhanced access and maintenance for 83 enterprise data sets, improving data usability across teams. Additionally, I established best practices in research software development by creating internal software packages and documenting CI/CD pipelines with Docker and GitLab. 
 
+-  Won competitive CIO funding (1 of 3 from ~20 proposals) to co-develop data visualization style guide, achieving 28% adoption across 14,000-person workforce as measured by website analytics.
 -   Co-leader of the five-person data visualization sub-team and technical leader of the four-person UI/UX data visualization style guide team.
--   Developed three internally used R packages to simplify and standardize database connections, establish visualization standards, and package management.
--   Proposed and awarded funding from the CIO to publish a data visualization style guide for use by the entire lab in public communications and professional journals. Currently being used by 28% of the Lab's 14,000 workforce.
 -   Developed R Shiny web interfaces for machine learning predictive models to reduce the number of safety and security incidents.
+-   Developed three internally used R packages to simplify and standardize database connections, establish visualization standards, and package management.
 
 **Data Analyst,** *HID Global,* Albuquerque, NM, 01/2012--06/2018\
 As a member of HID Global, a leading provider of secure identity solutions specializing in products and services that enable trusted access to physical and digital spaces. I managed the human testing lab; coordinated 53 research studies, in various sites in the US to evaluate biometric sensors. Analyzed resulting data to measure biometric sensor performance and prepare it for machine learning algorithms. Oversaw 12.89 terabytes of collected data. Presented research findings using various media (print, video, and webinars) to both technical and non-technical staff, and clients. Researched and identified new methods for spoofing biometric devices.
 
+-   Collaborated with hardware engineers and computer scientists, on the research and development of four biometric sensors; including one for guests accessing the most visited vacation resort in the world.
+-   Identified three unknown security threats to HID Global biometric sensors that led to improvements in our fake finger detection algorithm.
 -   Cut research study cost and product development time by improving subject recruitment; identified new recruitment methods, and improved communication that led to 48% subject retention rate.
 -   Engineered a data pipeline to process 3,000 videos from wireless security cameras collected daily throughout research sites in the United States for an object detection algorithm.
 -   Decreased algorithm development time and improved data quality by implementing new filename conventions, and creating a MATLAB accessible MySQL database to index collected data.
--   Identified three unknown security threats to HID Global biometric sensors that lead to improvements in our fake finger detection algorithm.
--   Collaborated with hardware engineers and computer scientists, on the research and development of four biometric sensors; including one for guests accessing the most visited vacation resort in the world.
 
 **Data Analyst,** *NMSU Department of Public Health Sciences,* Las Cruces, NM, 08/2010--05/2011\
 While attending classes full-time, I actively assisted with a variety of health based research projects within the Department of Public Health Science. Provided statistical consulting to 8 graduate students and 11 faculty members at all stages of the research life cycle: grant writing, hypothesis development, survey and experiment design, preparing data, using statistical software to analyze data, and interpreting results for presentation or publication.
