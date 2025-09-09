@@ -2,6 +2,8 @@
 title: "Curriculum Vitae"
 ---
 
+[Download Resume](https://drive.google.com/uc?export=download&id=16LUU_QZkhDRfBsBKhnfO0xAU3CweNek_){.btn .btn-primary target=_blank rel=noopener}
+
 ## Professional Summary
 
 Data Scientist with 14+ years specializing in machine learning, predictive modeling, and enterprise data visualization across higher education, national security, and biometric research. Created visualization standards adopted by 28% of 14K workforce and led development of enrollment prediction systems serving 15-20 clients. Expert at translating complex analytics into compelling visual narratives for C-level executives and technical teams. Recent focus on cutting-edge AI applications, successfully delivering LLM-powered products and data-driven enrollment strategies.

@@ -12,6 +12,9 @@ website:
     - icon: file-text
       text: CV
       href: curriculum-vitae.qmd
+    - icon: file-earmark-pdf
+      text: Resume
+      href: https://drive.google.com/file/d/16LUU_QZkhDRfBsBKhnfO0xAU3CweNek_/view
 
 format:
   html:
