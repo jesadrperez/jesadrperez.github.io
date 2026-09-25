@@ -4,15 +4,19 @@ title: "Curriculum Vitae"
 
 ## Professional Summary
 
-Data Scientist with 14+ years specializing in machine learning, predictive modeling, and enterprise data visualization across higher education, national security, and biometric research. Created visualization standards adopted by 28% of 14K workforce and led development of enrollment prediction systems serving 15-20 clients. Expert at translating complex analytics into compelling visual narratives for C-level executives and technical teams. Recent focus on cutting-edge AI applications, successfully delivering LLM-powered products and data-driven enrollment strategies.
+Data Scientist with 14+ years building and owning predictive models and advanced analytics in SQL, R, and Python across regulated data environments in higher education and national security, plus commercial product development. Own and extend the enrollment prediction framework behind the highest-rated product at a higher-ed analytics firm, reaching 1% MAPE and 59 NPS across 80 users. Delivered two LLM-powered products from prototype to general availability in six months using RAG and custom Python. Co-created the data visualization standards covering research figures and business dashboards, adopted by 28% of a 14,000-person workforce.
 
 ## Technical skills
 
-**Programming:** R, Python, SQL, MATLAB, SAS\
-**Machine Learning:** Scikit-Learn, LLM Fine-tuning, Prompt Engineering, Statistical Modeling\
-**Visualization:** R Shiny, ggplot2, Matplotlib, Tableau\
-**Infrastructure:** Docker, Git, AWS, CI/CD Pipelines\
-**Research:** Experimental Design, Hypothesis Testing, Applied Statistics\
+**Programming:** R, Python, SQL, AI-Assisted Development (Claude Code), MATLAB, SAS\
+
+**LLM:** RAG, Pinecone, OpenAI API & Vector Store, Embeddings, Prompt Engineering, LLM-as-Judge Calibration, Golden Datasets\
+
+**Machine Learning:** Scikit-Learn, Predictive Modeling, Model Validation, Feature Engineering, Applied Statistics, Experimental Design, A/B Testing\
+
+**Visualization:** R Shiny, ggplot2, Tableau\
+
+**Data & Infrastructure:** AWS, Docker, Git, CI/CD Pipelines, R Package Development, Data Virtualization (Denodo, Tibco), Spark\
 
 ## Professional Experience
 
@@ -26,9 +30,9 @@ As a remote member of Capture Higher Ed, a data-driven enrollment management and
 -   Assumed ownership of containerized development environment supporting 4-person data science team's production model deployment, implementing ARM architecture support to enable migration to faster machines and maintaining annual security updates for R/Python libraries and federal data sources.
 
 **Data Scientist,** *Sandia National Laboratories,* Albuquerque, NM, 07/2018--08/2022\
-At Sandia National Laboratories, a federally funded research and development center advancing national security and technology innovation, I developed and productionized two machine learning models and four interactive data visualizations to improve safety, security, and employee retention. I provided ad-hoc data analysis to leadership on the performance of the $177.7 million Laboratory Directed Research & Development (LDRD) program. Collaborating with data engineers and software developers, I enhanced access and maintenance for 83 enterprise data sets, improving data usability across teams. Additionally, I established best practices in research software development by creating internal software packages and documenting CI/CD pipelines with Docker and GitLab. 
+At Sandia National Laboratories, a federally funded research and development center advancing national security and technology innovation, I developed and productionized two machine learning models and four interactive data visualizations to improve safety, security, and employee retention. I provided ad-hoc data analysis to leadership on the performance of the \$177.7 million Laboratory Directed Research & Development (LDRD) program. Collaborating with data engineers and software developers, I enhanced access and maintenance for 83 enterprise data sets, improving data usability across teams. Additionally, I established best practices in research software development by creating internal software packages and documenting CI/CD pipelines with Docker and GitLab.
 
--  Won competitive CIO funding (1 of 3 from ~20 proposals) to co-develop data visualization style guide, achieving 28% adoption across 14,000-person workforce as measured by website analytics.
+-   Won competitive CIO funding (1 of 3 from \~20 proposals) to co-develop data visualization style guide, achieving 28% adoption across 14,000-person workforce as measured by website analytics.
 -   Co-leader of the five-person data visualization sub-team and technical leader of the four-person UI/UX data visualization style guide team.
 -   Developed R Shiny web interfaces for machine learning predictive models to reduce the number of safety and security incidents.
 -   Developed three internally used R packages to simplify and standardize database connections, establish visualization standards, and package management.
