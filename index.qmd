@@ -13,9 +13,6 @@ about:
     - icon: linkedin
       text: Linkedin
       href: https://www.linkedin.com/in/adrian-perez-5137081a/
-    - icon: file-earmark-pdf
-      text: Resume
-      href: https://drive.google.com/file/d/16LUU_QZkhDRfBsBKhnfO0xAU3CweNek_/view
 ---
 
 I am currently a **Data Scientist** at [*Capture Higher Ed*](https://www.capturehighered.com/), based in Las Cruces, NM. I hold a [B.S. in Biology](https://bio.nmsu.edu/) with a minor in Applied Mathematics (2009) and an [MS in Applied Statistics](https://business.nmsu.edu/academic-programs/graduate-programs/ms-applied-statistics/applied-statistics-master.html) (2011), both from New Mexico State University.
