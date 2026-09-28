@@ -70,7 +70,9 @@ Ensured data quality for raw data collected across US meat, poultry, and process
 
 ## Education
 
-**MS in Applied Statistics,** *New Mexico State University,* Las Cruces, NM, 2011
+**MS in Applied Statistics,** *New Mexico State University,* Las Cruces, NM, 2011\
+
+Coursework in experimental design, regression and linear models, multivariate analysis, sampling methodology, and statistical consulting; programming in R and SAS.
 
 **BS in Biology (Minor: Applied Math),** *New Mexico State University,* Las Cruces, NM, 2009
 
